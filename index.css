@@ -1,1 +1,10 @@
-ce est un fichier de qualité en ligne de commandce est un fichier de qualité en ligne de commandee
+html{
+    padding: 0;
+    margin:  0;
+}
+body{
+    padding: 0;
+    margin:  0;
+    overflow-x: hidden;
+
+}
