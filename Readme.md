@@ -1,1 +1,1 @@
-# ceci est une initiation au ligne de code
+# ceci est une initiation aux lignes de code
